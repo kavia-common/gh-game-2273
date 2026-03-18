@@ -27,3 +27,4 @@ go.work.sum
 # Prevent binaries from being added
 /gh-game
 /gh-game.exe
+.file_activity_report.json
